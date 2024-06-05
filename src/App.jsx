@@ -10,10 +10,9 @@ export default function App() {
             <li>About Us</li>
             <li>Contacts</li>
             <li>Courses</li>
-            <li className="flex pl-10 "></li>
           </ul>
           <div>
-            <button className="bg-red-500 text-white  space-y-reverse  py-2 px-4 border-solid border-2 border-white rounded">
+            <button className="bg-red-500 text-white py-2 px-4 border-solid border-2 border-white rounded">
               Login
             </button>
           </div>
